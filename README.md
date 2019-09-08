@@ -101,3 +101,6 @@ npm run server
 ```
 
 浏览器输入 http://localhost:3000/ 即可
+
+以上所有内容均是学习 [水滴前端](https://zhuanlan.zhihu.com/shuidi-fed)的教程所编写<br/>
+强烈推荐先看他的[完整教程](https://zhuanlan.zhihu.com/p/64829195),一步一步的搭建框架,感谢大佬的分享
